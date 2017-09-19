@@ -1,0 +1,33 @@
+body {
+      background-color: #47d1d1;
+}
+
+div.keltainen-div {
+    background-color: #ccff33;
+    margin-left: 200px;
+    color: red;
+}
+
+div.tyylikas-div {
+    height: 100px;
+    text-align: center;
+    background-image: linear-gradient(to bottom, yellow, #dddd00, orange);
+}
+
+.margin-tyyli {
+    margin-top: 10px;
+}
+
+img.kuva-tyyli {
+    width: 500px;
+    height: 250px;
+}
+
+#Testikappale2 {
+    background-color: green;
+}
+
+#toka-solu {
+    background-color: red;
+}
+
